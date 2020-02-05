@@ -4,6 +4,7 @@
   "description": "simple web",
   "main": "hello_filesystem.js",
   "scripts": {
+	"start":"node hello_filesystem.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
